@@ -11,3 +11,4 @@
 - git remote add origin https://github.com
 - git remote -v
 - git push -u origin master
+- git pull
